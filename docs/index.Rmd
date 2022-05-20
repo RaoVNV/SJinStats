@@ -1,0 +1,33 @@
+---
+title: "Social Justice in Statistics and Data Science: Project Page"
+output: rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(rmdformats)
+```
+
+# Project Contributors
+
+In alphabetical order: 
+
+- Nina Bailey
+- John Bartucz
+- Carlos Chavez
+- [V.N. Vimal Rao](https://raovnv.github.io/research.html)
+
+# Introduction to the Project
+
+In harnessing the power of data, statistics educators have begun to develop curricula that situates data science and statistics as a tool for social justice. However, successfully implementing these curricula requires unique considerations for the management of the classroom learning environment. 
+
+# ECOTS 2022
+
+We hosted a breakout session at the 2022 Electronic Conference on Teaching Statistics in which we shared our experiences and 
+[ECOTS 2022 Breakout Session](https://causeweb.org/cause/ecots/ecots22/program/breakout/12). 
+
+Additional resources for our session can be found [here]().  
+
+# Upcoming Paper in Preparation
+
+We are currently working on a manuscript that will provide recommendations, activities, and additional resources for teachers. Stay tuned!
