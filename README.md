@@ -1,3 +1,3 @@
-# Data-to-Graphs and Back
+# Social Justice in Statistics and Data Science
 
-This GitHub repository is the home for the Data-to-Graphs and Back project being conducted by V.N. Vimal Rao, Chelsey Legacy, Jonathan M. Brown, Andrew Zieffler, and Robert delMas. You can access the project website at: https://RaoVNV.github.io/Data-to-Graphs. 
+This GitHub repository is the home for the Social Justice in Statistics and Data Science project being conducted by V.N. Vimal Rao, Nina Bailey, John Bartucz, and Carlos Chavez. You can access the project website at: https://RaoVNV.github.io/SJinStats. 
